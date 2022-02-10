@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: white;
+}
+.searchButton:hover{
+    background-color: black;
+    color: white;
+}
+
+#header{
+    text-align: center;
+    line-height: 2.5em;
+}
+
+p{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+img{
+    margin: 10px;
+}
